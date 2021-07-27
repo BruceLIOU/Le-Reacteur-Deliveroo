@@ -19,7 +19,7 @@ See demo: https://le-reacteur-react-deliveroo.netlify.app/
    <img
 		width="600"
 		alt="capture"
-		src="https://github.com/mBrochot/Deliveroo---Frontend-/raw/master/preview/capture-deliveroo.png">
+		src="https://github.com/BruceLIOU/Le-Reacteur-Deliveroo/raw/main/preview/capture-deliveroo.gif">
 </p>
 
 
