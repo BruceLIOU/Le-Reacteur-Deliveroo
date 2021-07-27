@@ -1,12 +1,19 @@
-import React, { useState, useEffect } from "react";
-import "./App.css";
+// import CSS
+import "./assets/css/App.css";
+
+// import Packages
 import axios from "axios";
+import React, { useState, useEffect } from "react";
+
+// import Components
 import Header from "./components/Header";
 import Restaurants from "./components/Restaurants";
 import Categories from "./components/Categories";
 import Cart from "./components/Cart";
 import EmptyCart from "./components/EmptyCart";
 // import Footer from "./components/Footer";
+
+// import Fontawesome
 import { library } from "@fortawesome/fontawesome-svg-core";
 import { faStar } from "@fortawesome/free-solid-svg-icons";
 library.add(faStar);

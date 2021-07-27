@@ -2,7 +2,7 @@
 	<img
 		width="350"
 		alt="deliveroo"
-		src="https://github.com/BruceLIOU/Le-Reacteur-Deliveroo/raw/master/src/images/Deliveroo_logo.svg.png">
+		src="https://github.com/BruceLIOU/Le-Reacteur-Deliveroo/raw/master/src/assets/img/Deliveroo_logo.svg.png">
 </h1>
 
 ## Project Fullstack - React and NodeJS
